@@ -1,17 +1,17 @@
 ---
-title: Introduzione al modello operativo basato su dati (DDOM)
-description: 'Questo video offre una breve introduzione al modello operativo basato su dati (DDOM, Data-Driven Operating Model) di Adobe. '
-translation-type: tm+mt
+title: Introduzione al Modello operativo basato su dati (DDOM)
+description: 'In questo video trovi una breve introduzione al Modello operativo basato su dati (DDOM) di Adobe. '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Introduzione a [!UICONTROL Modello operativo basato su dati] (DDOM)
+# Introduzione al [!UICONTROL Modello operativo basato su dati] (DDOM)
 
-In questo video, introduzione rapida all&#39;Adobe [!UICONTROL Modello operativo basato su dati] (DDOM).
+In questo video trovi una breve introduzione al [!UICONTROL Modello operativo basato su dati] (DDOM) di Adobe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41690)
