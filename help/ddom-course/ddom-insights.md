@@ -1,17 +1,17 @@
 ---
-title: Approfondimenti e insegnamenti DDOM
-description: 'Scopri alcune delle insights che DDOM ha aiutato ad Adobe a scoprire e scoprire di più su alcune delle considerazioni da prendere nella configurazione della tua versione di DDOM. '
-translation-type: tm+mt
+title: 'DDOM: informazioni acquisite e considerazioni'
+description: 'Scopri alcune delle informazioni che Adobe ha potuto acquisire grazie al DDOM, e alcune considerazioni da tenere presenti durante l’impostazione della tua versione del DDOM. '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Approfondimenti e insegnamenti DDOM
+# DDOM: informazioni acquisite e considerazioni
 
-Scopri alcune delle insights che DDOM ha aiutato ad Adobe a scoprire e scoprire di più su alcune delle considerazioni da prendere nella configurazione della tua versione di DDOM.
+Scopri alcune delle informazioni che Adobe ha potuto acquisire grazie al DDOM, e alcune considerazioni da tenere presenti durante l’impostazione della tua versione del DDOM.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41693)
