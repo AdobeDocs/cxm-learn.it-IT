@@ -1,19 +1,19 @@
 ---
-title: Consegna
-description: Questa è la panoramica dell’articolo.
+title: Recapito dei messaggi
+description: Panoramica dell’articolo.
 keywords: DDOM, recapito messaggi
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '11'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Panoramica sul recapito messaggi
+# Panoramica sul recapito dei messaggi
 
-Benvenuto.
+Benvenuto/a.
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
