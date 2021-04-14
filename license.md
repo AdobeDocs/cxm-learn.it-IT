@@ -1,12 +1,12 @@
 ---
 source-git-commit: ea774529b25ecca51d3eabce9884df283c38fc24
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '170'
 ht-degree: 100%
 
 ---
-# MIT License
+# Licenza MIT
 
 © Copyright 2018 Adobe. All rights reserved.
 
