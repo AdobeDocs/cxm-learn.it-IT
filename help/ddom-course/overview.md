@@ -1,24 +1,24 @@
 ---
 title: Modello operativo basato su dati di Adobe
-description: Questa è la panoramica dell’articolo.
+description: Panoramica dell’articolo.
 keywords: DDOM, trasformazione digitale
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a3efa696f0c4172ce04101b538d47a761f4fe41e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Modello operativo basato su dati di Adobe (DDOM)
+# Modello operativo basato su dati (DDOM) di Adobe
 
-Ti diamo il benvenuto in una panoramica del modello operativo basato su dati (DDOM, Data-Driven Operating Model) di Adobe. In questo corso, imparerai dalla sezione [!DNL Adobe Digital Strategy Group] della storia di trasformazione digitale Adobe, i tre pilastri principali di DDOM e approfondimenti di esempio scoperti da DDOM.
+Questa sezione offre una panoramica del Modello operativo basato su dati (DDOM) di Adobe. In questo corso, [!DNL Adobe Digital Strategy Group] presenta la storia della trasformazione digitale di Adobe, descrive i tre pilastri del DDOM e illustra alcuni esempi di informazioni acquisite grazie al DDOM.
 
-* [Introduzione a DDOM](ddom-introduction.md)
-* [Adobe Digital Transformation Story](transformation-story.md)
-* [I tre pilastri principali di DDOM](ddom-components.md)
-* [Informazioni scoperte da DDOM](ddom-insights.md)
+* [Introduzione al DDOM](ddom-introduction.md)
+* [Storia della trasformazione digitale di Adobe](transformation-story.md)
+* [I tre pilastri del DDOM](ddom-components.md)
+* [Informazioni acquisite grazie al DDOM](ddom-insights.md)
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
